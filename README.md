@@ -6,7 +6,7 @@ This repository contains the implementation of a web application as part of the 
 ## Features
 - **Responsive Design:** The application is designed to be fully responsive, ensuring optimal performance on both desktop and mobile devices.
 - **User Authentication:** Implemented user registration and login functionality with secure password handling.
-- **Dynamic Content:** Utilizes JavaScript and AJAX for loading dynamic content without refreshing the page.
+- **Dynamic Content:** Utilizes JavaScript for loading dynamic content without refreshing the page.
 - **RESTful API Integration:** Connects to a RESTful API to fetch and display data efficiently.
 
 ## Technologies Used
