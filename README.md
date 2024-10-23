@@ -1,4 +1,4 @@
-# Web Development Assignment (2023-2024)
+# Web Development Assignment (Classifieds website)
 
 ## Overview
 This repository contains the implementation of a web application as part of the web development coursework for the 2023-2024 academic year. The project focuses on creating a responsive, user-friendly interface and integrating various web technologies to deliver a seamless user experience.
