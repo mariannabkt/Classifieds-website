@@ -25,4 +25,4 @@ This repository contains the implementation of a web application as part of the 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mariannabkt/webdev-assignment-23-24.git
+   git clone https://github.com/mariannabkt/Classifieds-website.git
