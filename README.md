@@ -26,3 +26,22 @@ This repository contains the implementation of a web application as part of the 
 1. Clone the repository:
    ```bash
    git clone https://github.com/mariannabkt/Classifieds-website.git
+2. Navigate to the project directory:
+   ```bash
+   cd Classifieds-website
+3. Install the required dependencies:
+   ```bash
+   npm install
+4. Set up your MongoDB connection and update the connection string in the configuration file.
+5. Start the application:
+   ```bash
+   npm start
+
+### Usage
+Open your web browser and navigate to http://localhost:8080 to access the application.
+Create a new user account or log in with an existing account to explore the application features.
+
+### Acknowledgments
+- Node.js - JavaScript runtime for server-side development.
+- Express.js - Web framework for Node.js.
+- MongoDB - NoSQL database for data storage.
